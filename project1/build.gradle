@@ -73,6 +73,7 @@ dependencies{
 	// This dependency is used by the application.
 	implementation 'com.google.guava:guava:30.0-jre'
 
-
+	implementation 'org.springframework:spring-beans:5.3.10'
+	
 	
 }
